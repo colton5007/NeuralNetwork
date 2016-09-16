@@ -1,0 +1,1 @@
+Creates Neural Network when compiled and ran with command: java -jar "Neural Network.jar" <InputLayerSize> <OutputLayerSize> <HiddenLayerSize> <DataEntries> <InputFile>
